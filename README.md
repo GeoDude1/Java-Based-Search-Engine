@@ -1,9 +1,4 @@
-# Project
-
-The project is broken into two separate GitHub repositories and Eclipse Java projects. This is the private individual repository for your project source code.
-
-Unlike the test repository which is shared, this repository will only be accessible by you, the instructor, and the teacher assistants.
-
-For more details, see the project guides at:
-
-<https://usf-cs212-fall2020.github.io/guides/>
+Search Engine with Multi-Threaded Web Crawler Technologies: Java, HTML
+○ Created a multi-threaded web crawler that leveraged a work queue to build an index from a seed URL
+○ Programmed an HTML text form that allowed a user to submit a multi-word search query to a Java servlet
+which performed a partial search from an index to generate an HTML page with sorted links dynamically
